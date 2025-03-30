@@ -1,0 +1,1 @@
+ /Users/victorhachkajlo/Documents/MOBILE_FLUTTER/flutter_weather/.dart_tool/flutter_build/3e109812accc350e9da5daa916160b3e/native_assets.yaml: 
